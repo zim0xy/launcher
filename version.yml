@@ -1,8 +1,8 @@
-version: 1.0.15
+version: 1.0.16
 files:
-  - url: Zimoxy Launcher Setup 1.0.15.exe
-    sha512: m6/SCoNaSsRMlhJlyW2M9rkCNO9J/au/wwb7jnn+snyGZQqZ7r2dR77A+fGG6/hgzdVWADKJVUEwm+76sM7tfQ==
-    size: 81781185
-path: Zimoxy Launcher Setup 1.0.15.exe
-sha512: m6/SCoNaSsRMlhJlyW2M9rkCNO9J/au/wwb7jnn+snyGZQqZ7r2dR77A+fGG6/hgzdVWADKJVUEwm+76sM7tfQ==
-releaseDate: '2023-11-16T00:43:04.799Z'
+  - url: Zimoxy Launcher Setup 1.0.16.exe
+    sha512: YY+sp7gudk49CSSGZpB37MGgWkmgI0HJmVAtXUWEcq+qB9yElZMLh1x6ZeOe0Bqg9t8xNWL5aBXL0c0Phog2yw==
+    size: 81782215
+path: Zimoxy Launcher Setup 1.0.16.exe
+sha512: YY+sp7gudk49CSSGZpB37MGgWkmgI0HJmVAtXUWEcq+qB9yElZMLh1x6ZeOe0Bqg9t8xNWL5aBXL0c0Phog2yw==
+releaseDate: '2023-11-16T01:43:58.754Z'
